@@ -1,5 +1,6 @@
 # LiveMap_People_Detection
 Projet réalisé lors du CrunchTime 2025 organisé par l'UTBM.
+L'idée était d'attribuer une zone sur un carte à une caméra et de compter le nombre de personnes dans cette zone.
 
 # 📡 YOLO Affluence Tracker
 
@@ -31,7 +32,7 @@ pip install -r requirements.txt
 ```sh
 wget https://github.com/ultralytics/assets/releases/download/v8/yolov8n.pt -O yolo.pt
 ```
-Ou placez un modèle YOLO (`.pt`) dans le dossier du projet.
+Ou placez un modèle YOLO (`.pt`) dans le dossier du projet. #la version n est disponible dans le projet
 
 ---
 
