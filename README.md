@@ -21,7 +21,8 @@ Assurez-vous d'avoir installé :
 ### 2️⃣ Cloner le projet
 ```sh
 git clone https://github.com/ton-repo/yolo-affluence-tracker.git
-cd yolo-affluence-tracker```
+cd yolo-affluence-tracker
+```
 
 ### 3️⃣ Installer les dépendances
 ```sh
