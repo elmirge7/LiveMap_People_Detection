@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```sh
 wget https://github.com/ultralytics/assets/releases/download/v8/yolov8n.pt -O yolo.pt
 ```
-Ou placez un modèle YOLO (`.pt`) dans le dossier du projet. #la version n est disponible dans le projet
+Ou placez un modèle YOLO (`.pt`) dans le dossier du projet. (La version n est disponible dans le projet mais il en existe d'autres plus précises et puissantes)
 
 ---
 
